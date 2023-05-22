@@ -8,6 +8,7 @@ authors = ["Michael Rose Jr. <michael.rose@hpe.com>"]
 python = "^3.10"
 jupyterlab = "^4.0.0"
 scikit-learn = "^1.2.2"
+pre-commit = "^3.3.2"
 
 [tool.poetry.dev-dependencies]
 
